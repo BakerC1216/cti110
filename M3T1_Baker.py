@@ -1,7 +1,7 @@
 # CTI-110
 # M3T1 - Area of Rectangles 
 # BakerC1216
-# 9/10/17
+# 9/24/17
 # This program finds the area of rectangles
 
 # Get the dimesions of of rectangle 1.

@@ -1,8 +1,8 @@
 # CTI-110
-# M6HW1 - Feet to Inches Converter 
+# M6HW1 - Test Averages and Grades 
 # BakerC1216
 # 11/12/17
-# This program coverts feet in inches.
+# This program creates a scoring table.
 
 def Calc_Average (Score1, Score2, Score3, Score4, Score5):
     average = (Score1 + Score2 + Score3 + Score4 + Score)/5
